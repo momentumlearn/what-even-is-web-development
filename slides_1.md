@@ -139,9 +139,11 @@ It might just take you a really really (REALLY) long time.
 
 ---
 
-## Code for humans
+## Code is for machines + humans 🤖
 
-A programming language is just a set of rules that define how you can tell a computer what you want it to do.
+programming lang -> machine lang -> bytes & bits -> hardware
+
+![inline](https://media.giphy.com/media/l1KsPx1XnnnWQiH6M/giphy.gif)
 
 ---
 
